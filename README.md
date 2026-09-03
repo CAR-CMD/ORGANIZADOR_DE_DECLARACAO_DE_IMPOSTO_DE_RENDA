@@ -8,7 +8,7 @@ Centralizar os dados do contribuinte em um unico arquivo, facilitando o acompanh
 
 ## Arquivo principal
 
-- [Organizador de Declaracao de Imposto de Renda](./ORGANIZADOR_DE_DECLARACAO_DE_IMPOSTO_DE_RENDA.xlsx)
+- [Baixar o arquivo Excel](https://github.com/CAR-CMD/ORGANIZADOR_DE_DECLARACAO_DE_IMPOSTO_DE_RENDA/raw/refs/heads/main/ORGANIZADOR_DE_DECLARACAO_DE_IMPOSTO_DE_RENDA.xlsx)
 
 Abra o arquivo com o Microsoft Excel para utilizar os menus, campos de preenchimento, validacoes e links rapidos.
 
