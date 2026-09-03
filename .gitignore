@@ -1,0 +1,12 @@
+# Arquivos temporarios do Excel
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dados locais ou exportacoes com informacoes sensiveis
+*.csv
+*.pdf
